@@ -29,3 +29,7 @@ Start your container using the docker run command and specify the name of the im
 1. docker run -dp 3000:3000 docker-example2
 
 2. After a few seconds, open your web browser to http://localhost:3000. You should see your app.
+
+## Pull
+
+docker pull kimelet/getting-started-exp1
